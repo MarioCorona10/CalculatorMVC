@@ -1,0 +1,7 @@
+com\mario\service\Service.class
+com\mario\MultiplyController.class
+com\mario\SubstractController.class
+com\mario\AddController.class
+com\mario\MarioConfig.class
+com\mario\DivideController.class
+com\mario\MyWebInitializer.class
