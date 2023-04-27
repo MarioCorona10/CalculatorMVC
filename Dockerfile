@@ -1,2 +1,2 @@
 FROM tomcat:latest
-COPY ./CalculatorMVC.war /usr/local/tomcat/webapps
+COPY target/CalculatorMVC.war /usr/local/tomcat/webapps
